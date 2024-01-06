@@ -4,7 +4,7 @@
 **COD1995/COD1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🎓 Ph.D. Student in Computer Science & Engineering;
 - 🏫 Instructor at the University at Buffalo;
 - 📚 Courses Taught
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
