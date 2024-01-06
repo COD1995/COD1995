@@ -5,6 +5,10 @@
 
 Here are some ideas to get you started:
 
+- 🎓 Ph.D. Student in Computer Science & Engineering;
+- 🏫 Instructor at the University at Buffalo;
+- 📚 Courses Taught
+  - Deep Learning; Machine Learning; Introduction to Pattern Recognition
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
