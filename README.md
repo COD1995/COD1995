@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him;
 - 🎓 Ph.D. Student in Computer Science & Engineering;
 - 🏫 Instructor at the University at Buffalo;
 - 📚 Courses Taught
-  - Deep Learning; Machine Learning; Introduction to Pattern Recognition
+  - Deep Learning; Machine Learning; Introduction to Pattern Recognition;
 - 📫 How to reach me: jueguo@buffalo.edu
 
